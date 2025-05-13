@@ -3,7 +3,7 @@
 🛒 Blinkit Sales and Performance Dashboard – Overview
 The Blinkit Sales and Performance Dashboard is a Power BI-based analytical tool designed to provide deep insights into Blinkit's operational and sales performance. It helps business stakeholders monitor key metrics, analyze trends, and make data-driven decisions for improving efficiency and profitability.
 
-📌 Key Objectives:
+# Key Objectives:
 Track overall sales performance and growth
 
 Analyze product-level and category-level trends
@@ -12,7 +12,7 @@ Evaluate outlet and regional performance
 
 Understand customer preferences and behavior
 
-📊 Key Features:
+# Key Features:
 Sales KPIs:
 
 Total Sales (e.g., ~$1.2M)
@@ -47,7 +47,7 @@ Geographic sales distribution via map visuals
 
 Dynamic filters for location, item type, outlet size
 
-🛠️ Tools & Tech Stack:
+# Tools & Tech Stack:
 Power BI: Visual analytics and dashboard creation
 
 Power Query: Data transformation
@@ -56,7 +56,7 @@ DAX: Calculated KPIs and measures
 
 Excel / CSV: Source data format
 
-🎯 Outcome:
+# Outcome:
 The dashboard empowers Blinkit's teams to:
 
 Identify what’s selling and where
