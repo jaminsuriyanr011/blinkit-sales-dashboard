@@ -13,7 +13,7 @@ Evaluate outlet and regional performance
 Understand customer preferences and behavior
 
 # Key Features:
-Sales KPIs:
+1) Sales KPIs:
 
 Total Sales (e.g., ~$1.2M)
 
@@ -23,7 +23,7 @@ Items Sold
 
 Customer Satisfaction (Avg. Rating ~3.9)
 
-Product Analysis:
+2) Product Analysis:
 
 Sales by item type (e.g., fruits, dairy, snacks)
 
@@ -31,7 +31,7 @@ Fat content preference (low-fat vs regular)
 
 High-performing SKUs and categories
 
-Outlet Performance:
+3) Outlet Performance:
 
 Sales by store size (Small, Medium, Large)
 
@@ -39,18 +39,14 @@ Tier-wise performance (Tier 1, Tier 2, Tier 3 cities)
 
 Item visibility vs sales impact
 
-Interactive Filters & Visuals:
+4) Interactive Filters & Visuals:
 
 Time-based sales trends
-
-Geographic sales distribution via map visuals
 
 Dynamic filters for location, item type, outlet size
 
 # Tools & Tech Stack:
 Power BI: Visual analytics and dashboard creation
-
-Power Query: Data transformation
 
 DAX: Calculated KPIs and measures
 
